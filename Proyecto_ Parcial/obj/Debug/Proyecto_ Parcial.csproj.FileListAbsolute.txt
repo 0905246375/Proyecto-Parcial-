@@ -1,0 +1,5 @@
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto_ Parcial\obj\Debug\Proyecto_ Parcial.csproj.AssemblyReference.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto_ Parcial\obj\Debug\Proyecto__Parcial.Properties.Resources.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto_ Parcial\obj\Debug\Proyecto_ Parcial.csproj.GenerateResource.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto_ Parcial\obj\Debug\Proyecto_ Parcial.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto_ Parcial\obj\Debug\Proyecto__Parcial.MainForm.resources
